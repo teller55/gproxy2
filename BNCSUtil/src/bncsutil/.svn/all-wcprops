@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/14/BNCSUtil/src/bncsutil
+END
+buffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/14/BNCSUtil/src/bncsutil/buffer.h
+END
+mutil_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/14/BNCSUtil/src/bncsutil/mutil_types.h
+END
+file.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/14/BNCSUtil/src/bncsutil/file.h
+END
+libinfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/14/BNCSUtil/src/bncsutil/libinfo.h
+END
+gmp.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/14/BNCSUtil/src/bncsutil/gmp.h
+END
+cdkeydecoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/14/BNCSUtil/src/bncsutil/cdkeydecoder.h
+END
+sha1.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/14/BNCSUtil/src/bncsutil/sha1.c
+END
+checkrevision.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/14/BNCSUtil/src/bncsutil/checkrevision.cpp
+END
+bsha1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/14/BNCSUtil/src/bncsutil/bsha1.cpp
+END
+mutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/14/BNCSUtil/src/bncsutil/mutil.h
+END
+oldauth.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/14/BNCSUtil/src/bncsutil/oldauth.cpp
+END
+sha1.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/14/BNCSUtil/src/bncsutil/sha1.h
+END
+decodekey.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/14/BNCSUtil/src/bncsutil/decodekey.h
+END
+stack.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/14/BNCSUtil/src/bncsutil/stack.c
+END
+stack.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/14/BNCSUtil/src/bncsutil/stack.h
+END
+file.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/14/BNCSUtil/src/bncsutil/file.cpp
+END
+libinfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/14/BNCSUtil/src/bncsutil/libinfo.cpp
+END
+cdkeydecoder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/14/BNCSUtil/src/bncsutil/cdkeydecoder.cpp
+END
+debug.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/14/BNCSUtil/src/bncsutil/debug.c
+END
+keytables.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/14/BNCSUtil/src/bncsutil/keytables.h
+END
+bncsutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/14/BNCSUtil/src/bncsutil/bncsutil.h
+END
+debug.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/14/BNCSUtil/src/bncsutil/debug.h
+END
+decodekey.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/14/BNCSUtil/src/bncsutil/decodekey.cpp
+END
+nls.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/14/BNCSUtil/src/bncsutil/nls.c
+END
+nls.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/14/BNCSUtil/src/bncsutil/nls.h
+END
+checkrevision.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/14/BNCSUtil/src/bncsutil/checkrevision.h
+END
+bsha1.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/14/BNCSUtil/src/bncsutil/bsha1.h
+END
+pe.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/14/BNCSUtil/src/bncsutil/pe.c
+END
+oldauth.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/14/BNCSUtil/src/bncsutil/oldauth.h
+END
+pe.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/14/BNCSUtil/src/bncsutil/pe.h
+END
+ms_stdint.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/14/BNCSUtil/src/bncsutil/ms_stdint.h
+END
